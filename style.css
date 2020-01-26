@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    width: 0;
+    background: rgb(166,75,244);
+    background: radial-gradient(circle, rgba(166,75,244,1) 0%, rgba(175,0,255,0.921988863904937) 14%); 
+}
+.border{
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 700px;
+}
+.border-p p{
+
+    font-family: Poppins-Bold;
+}
